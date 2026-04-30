@@ -40,10 +40,15 @@ The dataset contains survey responses related to:
 
 ## Key Results
 
-- The dataset was segmented into 4 clusters
-- Distinct respondent groups were identified
-- Cluster differences were visualized using PCA
-- Meaningful trends were observed across demographic and workplace variables
+- The dataset was segmented into four clusters.
+- The elbow method supported the selection of k = 4.
+- PCA was used to visualize the cluster structure.
+- The four clusters showed different employee profiles:
+- Cluster 0: Younger employees, average age approximately 31.6 years, usually from smaller companies, with higher treatment history.
+- Cluster 1: Mid-age employees, average age approximately 34.3 years, usually from larger companies, with lower treatment history.
+- Cluster 2: Younger employees, average age approximately 32.5 years, mainly from the smallest companies, with limited treatment engagement.
+- Cluster 3: Older employees, average age approximately 38.2 years, usually from the largest companies, with the highest treatment history.
+- Meaningful differences were observed across demographic and workplace-related variables.
 
 ---
 
